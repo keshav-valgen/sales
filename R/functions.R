@@ -1,5 +1,6 @@
 #'SegmentFunction
 #'
+#'
 #'This function builds a categorical variable from a numeric variable
 #'@import RForcecom
 #'@import dplyr
