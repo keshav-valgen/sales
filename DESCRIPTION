@@ -7,13 +7,7 @@ Maintainer: Keshav <keshav@valgen.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 Depends: 
-    R (>= 3.3.0),
-    RForcecom
-Imports:
-    jsonlite,
-    dplyr,
-    stringi,
-    readr
+    R (>= 3.3.0)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
